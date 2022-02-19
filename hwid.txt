@@ -1,0 +1,1 @@
+DeviceID220b00670a2122daManufacturerXiaomiModelRedmi Note 8 ProHostc5-miui-ota-bd172.bjProductbegoniaAndroidVersion10Hardwaremt6785FingerprintRedmi/begonia/begonia:10/QP1A.190711.020/V12.0.8.0.QGGMIXM:user/release-keys
